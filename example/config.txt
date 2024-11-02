@@ -1,0 +1,2 @@
+Prefix plugins/GenEXPLV/example/
+Plugin GenEXPLV inputfile sample.bed outputfile explvprofile.txt
